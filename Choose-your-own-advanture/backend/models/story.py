@@ -1,8 +1,8 @@
-from sqlalchemy import Column, Integer, String, dayTime, Boolean, Text, ForeignKey, JSON
+from sqlalchemy import Column, Integer, String, DateTime, Boolean, Text, ForeignKey, JSON
 from sqlalchemy.sql import func
 from sqlalchemy.orm import relationship
 
-from backend.db.database import Base
+from db.database import Base
 
 class Story(Base):
     __tablename__ = "stories"
@@ -10,8 +10,8 @@ class Story(Base):
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
     session_id = Column(String, index=True)
-    created_at = Column(dayTime(timezone=True), server_default=func.now())
-    nodes = relationship(argument="story_nodes", back_populates="story")
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+    nodes = relationship("StoryNode", back_populates="story")
     
 
 class StoryNode(Base):
