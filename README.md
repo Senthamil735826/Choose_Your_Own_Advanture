@@ -130,20 +130,46 @@ http://localhost:5173
 ---
 
 ## 📸 Screenshots
-==>#backend image
-1.<img width="1252" height="857" alt="Screenshot 2026-07-17 014813" src="https://github.com/user-attachments/assets/b85402f6-cdd7-4113-9a2f-afd258f1db41" />
 
+### Backend
 
-==>#frontend image
-1.<img width="763" height="473" alt="Screenshot 2026-07-17 025315" src="https://github.com/user-attachments/assets/8a02dd88-c6aa-4235-8959-b128de1a84c8" />
-2.<img width="681" height="448" alt="image" src="https://github.com/user-attachments/assets/555bad3f-44fc-41aa-b755-8f18f9e447ea" />
-3.<img width="731" height="772" alt="image" src="https://github.com/user-attachments/assets/4fed7590-0152-4e69-bcde-34f26b402503" />
-4.<img width="740" height="748" alt="image" src="https://github.com/user-attachments/assets/13599015-ecc2-4869-b923-0e00877b525a" />
-5.<img width="742" height="723" alt="image" src="https://github.com/user-attachments/assets/5af6c640-f3bc-41dc-a6de-a7892b400850" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b85402f6-cdd7-4113-9a2f-afd258f1db41" width="700">
+</p>
 
+---
 
+### Frontend
 
+#### 1. Home Page
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a02dd88-c6aa-4235-8959-b128de1a84c8" width="500">
+</p>
+
+#### 2. Story Generation
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/555bad3f-44fc-41aa-b755-8f18f9e447ea" width="500">
+</p>
+
+#### 3. Story Choices
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fed7590-0152-4e69-bcde-34f26b402503" width="500">
+</p>
+
+#### 4. Story Progress
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13599015-ecc2-4869-b923-0e00877b525a" width="500">
+</p>
+
+#### 5. Story Ending
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5af6c640-f3bc-41dc-a6de-a7892b400850" width="500">
+</p>
 Example:
 
 - Home Page
